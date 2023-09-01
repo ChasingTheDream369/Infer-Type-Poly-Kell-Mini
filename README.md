@@ -28,7 +28,7 @@ To get started with Infer-Type-Poly-Kell-Mini, follow these simple steps:
 Infer-Type-Poly-Kell-Mini makes type inference a breeze. Simply run the following command:
 
 ```bash
-$ npm run infer my-mini-haskell-file.minhs
+$ npm run infer TyInfer.hs
 ```
 
 ## Contributing
