@@ -23,14 +23,6 @@ To get started with Infer-Type-Poly-Kell-Mini, follow these simple steps:
 3. Explore the `examples` directory for sample Mini Haskell programs.
 4. Use the provided scripts to analyze your own code.
 
-## Usage
-
-Infer-Type-Poly-Kell-Mini makes type inference a breeze. Simply run the following command:
-
-```bash
-$ npm run infer TyInfer.hs
-```
-
 ## Contributing
 
 We welcome contributions from the community! Whether you find a bug, have a feature request, or want to improve the documentation, please open an issue or submit a pull request.
